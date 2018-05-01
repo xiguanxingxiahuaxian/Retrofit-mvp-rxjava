@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Basego.iml" filepath="$PROJECT_DIR$/Basego.iml" />
+      <module fileurl="file://E:\ggfw\2017-9-7\Retrofit-mvp-rxjava\Basego.iml" filepath="E:\ggfw\2017-9-7\Retrofit-mvp-rxjava\Basego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retrofit-mvp-rxjava.iml" filepath="$PROJECT_DIR$/Retrofit-mvp-rxjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\ggfw\2017-9-7\Retrofit-mvp-rxjava\app\app.iml" filepath="E:\ggfw\2017-9-7\Retrofit-mvp-rxjava\app\app.iml" />
     </modules>
   </component>
 </project>
